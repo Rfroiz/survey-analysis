@@ -32,7 +32,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 in the datalake folder you have stackoverflow research files from different years.## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@froisrodolfo/is-remote-work-the-most-practiced-this-survey-made-for-developers-can-answer-you-dbbbef9a1cef).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

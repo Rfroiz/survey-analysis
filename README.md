@@ -36,4 +36,7 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the stackoverflow link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
+
+
+contact me on [LinkedIn](https://www.linkedin.com/in/rodolfofrois/?locale=en_US). 
